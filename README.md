@@ -1,6 +1,8 @@
 # hermes_api
 Microservice to consume Domestic Airports API and Mock Airlines Inc API to return the available flights per date, city of origin and destiny and also return the prices and kilometers of flights.
 
+resource = https://gist.github.com/vitorfavila/6c0fc484b4f55101cbd75074c6fd3573
+
 <hr>
 
 <p align="center">
